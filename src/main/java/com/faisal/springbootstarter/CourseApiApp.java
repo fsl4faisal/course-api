@@ -1,4 +1,4 @@
-package io.javabrains.springbootstarter;
+package com.faisal.springbootstarter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
